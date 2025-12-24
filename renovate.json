@@ -19,8 +19,6 @@
   },
   "github-actions": {
     "enabled": true
-  },
-  "deleteBranchAfterMerge": true,
-  "rebaseWhen": "behind-base-branch",
+  },  
   "automergeStrategy": "squash"
 }
